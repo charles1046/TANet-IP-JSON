@@ -24,3 +24,5 @@ URL來源：透過上述網站取得校名，再連結至維基頁面，擷取HT
 | TANet_ranged.json | IP有重疊，有URL |
 | TANet_no_url.json | URL查詢回傳-1，無法查詢，可能是維基查詢網址不對 |
 | TANet_name_bug.json | 校名異常 |
+| get_info.py | 取得URL及下載圖片(僅少數成功下載並開啟)的函式 |
+| main.py | 各種爬蟲跟測試用的程式碼 |
