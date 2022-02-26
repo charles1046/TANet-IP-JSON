@@ -25,7 +25,7 @@ URL來源：透過上述網站取得校名，再連結至維基頁面，擷取HT
 | raw.txt | 由TANet維基百科網站取得，並擷取其中包含校名及IP的部分 |
 | TANet_name_bug.json | 校名異常，目前沒有內容 |
 | get_info.py | 取得URL及下載圖片(僅少數成功下載並開啟)的函式 |
-| main.py | 各種爬蟲跟測試用的程式碼 |
+| main.py | 各種爬蟲跟測試用的程式碼，完全沒有整理，慎入XD |
 
 ## Author's Word
 
